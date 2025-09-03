@@ -9,8 +9,6 @@ A Zhihuishu auto-question bot based on Selenium + EdgeDriver. It supports automa
 - 半自动登录（支持手动验证码输入）。  
 - 读取本地 txt 文件中的问题，逐条发布。  
 - 发布时随机延迟，模拟人工操作。  
-- 日志记录到控制台和 `app.log` 文件。  
-- 支持打包成 exe，双击运行时程序结束后控制台保持显示。
 
 ## 📦 环境依赖
 
